@@ -1,0 +1,40 @@
+.Background {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#interactable {
+
+}
+
+h1 {
+  font-size: 33vh;
+  text-align: center;
+  font-family: Futura,Arial;
+  color: #fffcf5;
+  margin: 0;
+}
+
+p {
+  font-size: 3vh;
+  text-align: center;
+  font-family: Futura,Arial;
+  color: white;
+  margin: 0;
+}
+
+h2 {
+  font-size: 5vh;
+  text-align: center;
+  font-family: Futura,Arial;
+  color: white;
+}
+
+
+
+body {
+  background-image: url('Colombia.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
